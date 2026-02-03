@@ -3,5 +3,7 @@
   "minVersion": "0.8",
   "priority": 1100,
   "package": "com.hito.sazerac.mixin",
-  "mixins": []
+  "mixins": [
+    "PackRepositoryMixin"
+  ]
 }
